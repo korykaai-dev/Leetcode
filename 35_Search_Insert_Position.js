@@ -49,5 +49,3 @@ nums contains distinct values sorted in ascending order.
     
 return left;    
 };
-
-//End Problem
