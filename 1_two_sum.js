@@ -31,7 +31,7 @@ Only one valid answer exists.
 */
 
 //My Solution
-/**
+/*
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
