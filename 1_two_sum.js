@@ -34,6 +34,7 @@ Only one valid answer exists.
  * @param {number} target
  * @return {number[]}
  */
+ 
  var twoSum = function(nums, target) {
     
     for (var i = 0; i < nums.length; i++) {
@@ -45,3 +46,6 @@ Only one valid answer exists.
      }
      
  };
+ /* The above code is a function that takes in two parameters, nums and target. The function then loops
+ through the nums array and checks if the sum of two numbers in the array is equal to the target. If
+ the sum of two numbers is equal to the target, the function returns the index of the two numbers. */
